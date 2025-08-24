@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm Ashrif Ahamed 👋</h1>
+<h1 align="center">Hi there, I'm Saajith Mohammed 👋</h1>
 
 <p align="center">
-  🎓 BSc (Hons) in Data Science <br/>
+  🎓 BSc (Hons) in Software Engineering <br/>
   📍 Sabaragamuwa University of Sri Lanka <br/>
-  📊 Data Enthusiast | 💻 Programmer | 📈 Future Data Scientist
+  Cyber Security Enthusiast | 💻 Programmer | Frontend Developer
 </p>
 
 ---
