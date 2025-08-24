@@ -10,9 +10,9 @@
 
 ### 🚀 About Me
 
-- 🎓 I'm currently pursuing a **BSc Hons in Data Science**
+- 🎓 I'm currently pursuing a **BSc Hons in Software Engineer**
 - 🏫 Studying at **Sabaragamuwa University of Sri Lanka**
-- 🌱 I'm passionate about learning **AI, ML, Data Analytics** and **Web Development**
+- 🌱 I'm passionate about learning **Cyber Security** and **Front-End Development**
 - 💬 Ask me about **Python, SQL, PHP, MySQL, HTML/CSS**
 - 🛠️ Currently building personal projects and sharpening my data skills
 
